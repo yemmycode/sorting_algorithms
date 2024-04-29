@@ -42,3 +42,9 @@ void bubble_sort(int *array, size_t size)
         len--;
     }
 }
+
+/* Big O Notations for Bubble Sort:
+ * Best case: O(n) (when the array is already sorted)
+ * Average case: O(n^2)
+ * Worst case: O(n^2)
+ */

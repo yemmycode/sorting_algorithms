@@ -1,0 +1,3 @@
+Best case: O(nlog(n))
+Average case: O(nlog(n))
+Worst case: O(n^2)
